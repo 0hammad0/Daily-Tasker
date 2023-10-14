@@ -42,7 +42,3 @@ Our proposed system, **Daily Tasker**, is designed to seamlessly connect individ
 
 Modules and Sub-modules…
 
----
-
-*This README file provides a high-level overview of Daily Tasker. For detailed information, installation instructions, and usage guidelines, please refer to the documentation provided in the repository.*
-
