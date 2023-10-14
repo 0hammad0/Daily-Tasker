@@ -1,6 +1,6 @@
 <h1>Daily Tasker</h1>
 
-    <h1>Introduction</h1>
+    <h2>Introduction</h2>
 
     <p>
         Daily Tasker is a user-friendly website application accessible to anyone with an internet connection and a web
