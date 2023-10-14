@@ -16,29 +16,30 @@ Our proposed system, **Daily Tasker**, is designed to seamlessly connect individ
 
 ## Key Features
 
-- **User-Friendly Interface:** Daily Tasker will have a simple and intuitive interface, making it easy for both task seekers and task performers to navigate the platform effortlessly.
-- **Task Posting and Browsing:** Users can post tasks they need assistance with, specifying details such as task description, budget, and deadline. Task performers can browse these tasks based on their skills and availability.
-- **Matching Algorithm:** The platform will employ a smart matching algorithm that connects task seekers with suitable task performers, ensuring efficient and relevant matches based on expertise, location, and availability.
-- **Transparent Reviews and Ratings:** Users can leave reviews and ratings for task performers based on their experiences. This transparent feedback system builds trust within the community and helps users make informed decisions.
+1. **User-Friendly Interface:** Daily Tasker will have a simple and intuitive interface, making it easy for both task seekers and task performers to navigate the platform effortlessly.
+2. **Task Posting and Browsing:** Users can post tasks they need assistance with, specifying details such as task description, budget, and deadline. Task performers can browse these tasks based on their skills and availability.
+3. **Matching Algorithm:** The platform will employ a smart matching algorithm that connects task seekers with suitable task performers, ensuring efficient and relevant matches based on expertise, location, and availability.
+4. **Transparent Reviews and Ratings:** Users can leave reviews and ratings for task performers based on their experiences. This transparent feedback system builds trust within the community and helps users make informed decisions.
 
 ## Benefits
 
-- **Time Efficiency:** Users can save time and energy by outsourcing tasks, allowing them to focus on more important aspects of their lives.
-- **Community Empowerment:** Daily Tasker empowers community members to utilize their skills and contribute positively, fostering a sense of collaboration and support.
-- **Accessibility:** Daily Tasker is accessible to anyone with an internet connection, promoting inclusivity and ensuring that assistance is available to a wide range of users.
+1. **Time Efficiency:** Users can save time and energy by outsourcing tasks, allowing them to focus on more important aspects of their lives.
+2. **Community Empowerment:** Daily Tasker empowers community members to utilize their skills and contribute positively, fostering a sense of collaboration and support.
+3. **Accessibility:** Daily Tasker is accessible to anyone with an internet connection, promoting inclusivity and ensuring that assistance is available to a wide range of users.
+
+By implementing these features and benefits, Daily Tasker aims to create a reliable, efficient, and supportive ecosystem where individuals can easily connect, help each other, and simplify their daily lives.
 
 ## Survey Analysis
 
-| Features          | supertasker.pk | Mc Tasker | Co-Tasker | The Horsham Tasker | Proposed |
-|-------------------|---------------|-----------|-----------|--------------------|----------|
-| Messaging         | ✔             | ✔         | ✔         | ✔                  | ✔        |
-| Filters           | ✔             | ✔         | ✔         | ✔                  | ✔        |
-| Message           | ✔             | ✔         | ✔         | ✔                  | ✔        |
-| Reviews           | ✔             | ✔         | ✔         | ✔                  | ✔        |
-| No Commission     | ❌            | ❌        | ❌        | ❌                 | ✔        |
-| Subscription      | ❌            | ❌        | ❌        | ❌                 | ✔        |
+| Features       | supertasker.pk | Mc Tasker | Co-Tasker | The Horsham Tasker | Proposed |
+|----------------|----------------|-----------|-----------|--------------------|----------|
+| Messaging      | ✔              | ✔         | ✔         | ✔                  | ✔        |
+| Filters        | ✔              | ✔         | ✔         | ✔                  | ✔        |
+| Message        | ✔              | ✔         | ✔         | ✔                  | ✔        |
+| Reviews        | ✔              | ✔         | ✔         | ✔                  | ✔        |
+| No Commission  | ❌             | ❌        | ❌        | ❌                 | ✔        |
+| Subscription   | ❌             | ❌        | ❌        | ❌                 | ✔        |
 
 ## Modules and Sub-modules
 
 Modules and Sub-modules…
-
