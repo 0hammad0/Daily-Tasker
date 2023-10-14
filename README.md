@@ -1,5 +1,4 @@
-Daily Tasker (Final Year Project)
-
+<h1>Daily Tasker (Final Year Project)</h1>
 Introduction
 Daily Tasker is a user-friendly website application accessible to anyone with an internet connection and a web browser. You can delegate your daily chores to others, saving you precious time and effort. All you need is a device with internet access, and you can effortlessly outsource your tasks, allowing you to focus on what truly matters to you.
 Our project aimed at revolutionizing the way people connect for everyday tasks. Our vision is to create a seamless platform that bridges the gap between individuals in need of physical assistance and those with the skills and willingness to help. Whether it's fixing a light bulb, cleaning a floor, or getting groceries, our platform is designed to simplify your daily life.
